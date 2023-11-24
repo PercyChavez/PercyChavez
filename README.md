@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **percy21108@gmail.com**
   
-- 🤓 I’m currently learning **IA on Tensor Flow**
+- 🤓 I’m currently learning **KMP, Compose and IA with Tensor flow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
